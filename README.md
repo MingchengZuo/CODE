@@ -8,4 +8,5 @@ CODE_result_new.rar provides the test data of conducting CODE and CMA-ES togethe
 For other problems, the function evaluations of CODE are 180000, and the initial population size is 700. 
 
 ----------------Employment of CMA-ES--------------
+
 For the Messenger (reduced) problem, the function evaluations of CMA-ES is 400000; for other problems, the function evalautions are 200000.
